@@ -1,0 +1,57 @@
+{
+  "taxYear" : 2025,
+  "accountId" : "24-477-8662",
+  "taxFormId" : "1468436",
+  "taxFormDate" : "2025-12-31",
+  "issuer" : {
+    "tin" : "00-0133181",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Roberts-Hegmann"
+    },
+    "address" : {
+      "line1" : "504 Colin Unions",
+      "city" : "Napoleontown",
+      "region" : "ND",
+      "postalCode" : "23522"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "gustavo.bahringer@gmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-29-0757",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Ronald",
+      "last" : "Jakubowski"
+    },
+    "address" : {
+      "line1" : "337 Kihn Throughway",
+      "city" : "Howardside",
+      "region" : "NH",
+      "postalCode" : "42822"
+    },
+    "email" : "dwayne.will@hotmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "dateOfContribution" : "2025-05-25",
+  "odometerMileage" : 200,
+  "carYear" : 300,
+  "make" : "make",
+  "model" : "model",
+  "vin" : "vin",
+  "armsLengthTransaction" : true,
+  "dateOfSale" : "2025-06-09",
+  "grossProceeds" : 400,
+  "notTransferredBefore" : true,
+  "needyIndividual" : true,
+  "descriptionOfImprovements" : "descriptionOfImprovements",
+  "goodsInExchange" : true,
+  "valueOfExchange" : 500,
+  "intangibleReligious" : true,
+  "descriptionOfGoods" : "descriptionOfGoods",
+  "maxDeductionApplies" : true
+}

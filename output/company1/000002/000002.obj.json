@@ -1,0 +1,57 @@
+{
+  "taxYear" : 2025,
+  "accountId" : "72-111-7729",
+  "taxFormId" : "7112055",
+  "taxFormDate" : "2025-12-31",
+  "issuer" : {
+    "tin" : "00-0133181",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Roberts-Hegmann"
+    },
+    "address" : {
+      "line1" : "504 Colin Unions",
+      "city" : "Napoleontown",
+      "region" : "ND",
+      "postalCode" : "23522"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "gustavo.bahringer@gmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-45-5059",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Librada",
+      "last" : "Kessler"
+    },
+    "address" : {
+      "line1" : "68962 Abshire Mews",
+      "city" : "Suzannview",
+      "region" : "AZ",
+      "postalCode" : "62045"
+    },
+    "email" : "irvin.hane@gmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "dateOfContribution" : "2025-08-21",
+  "odometerMileage" : 200,
+  "carYear" : 300,
+  "make" : "make",
+  "model" : "model",
+  "vin" : "vin",
+  "armsLengthTransaction" : true,
+  "dateOfSale" : "2025-10-27",
+  "grossProceeds" : 400,
+  "notTransferredBefore" : true,
+  "needyIndividual" : true,
+  "descriptionOfImprovements" : "descriptionOfImprovements",
+  "goodsInExchange" : true,
+  "valueOfExchange" : 500,
+  "intangibleReligious" : true,
+  "descriptionOfGoods" : "descriptionOfGoods",
+  "maxDeductionApplies" : true
+}
